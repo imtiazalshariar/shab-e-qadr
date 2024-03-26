@@ -51,7 +51,7 @@ function App() {
 
         <div className="text-center lg:text-right lg:w-1/3">
           <p className="text-2xl lg:text-3xl">Raised till yesterday</p>
-          <p className="text-4xl lg:text-5xl">৳6,741.85/৳100,000</p>
+          <p className="text-4xl lg:text-5xl">৳10,541.85/৳100,000</p>
           <p className="text-2xl lg:text-3xl">Updated daily at 11:59PM</p>
           <Link
             target="_blank"
