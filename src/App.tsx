@@ -45,13 +45,13 @@ function App() {
             Spread the joy of Ramadan with everyone
           </h1>
           <p className="text-xl xl:text-3xl 2xl:text-5xl mt-5">
-            We are raising fund to make sure no one is left out
+            We are raising fund to make sure these
           </p>
         </div>
 
         <div className="text-center lg:text-right lg:w-1/3">
           <p className="text-2xl lg:text-3xl">Raised till yesterday</p>
-          <p className="text-4xl lg:text-5xl">৳10,541.85</p>
+          <p className="text-4xl lg:text-5xl">14,791.85</p>
           <p className="text-2xl lg:text-3xl">Updated daily at 11:59PM</p>
           <Link
             target="_blank"
