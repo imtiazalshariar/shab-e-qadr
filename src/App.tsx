@@ -84,7 +84,7 @@ function App() {
         </h2>
         <p className="text-lg xl:text-xl 2xl:text-2xl">
           We are working to provide a nice iftar for underpriviledged people in
-          our local community &amp; near BRACU campus and orphanages.
+          our community &amp; near BRACU campus and orphanages.
         </p>
       </div>
 
