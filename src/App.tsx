@@ -45,7 +45,7 @@ function App() {
             Spread the joy of Ramadan with everyone
           </h1>
           <p className="text-xl xl:text-3xl 2xl:text-5xl mt-5">
-            We are raising fund to make sure these
+            We are raising fund to make sure underpriviledged people have a great Ramadan through providing iftar to orphanages and underpriviledged people near BRACU campus.
           </p>
         </div>
 
