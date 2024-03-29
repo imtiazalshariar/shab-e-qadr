@@ -45,7 +45,7 @@ function App() {
             Spread the joy of Ramadan with everyone
           </h1>
           <p className="text-xl xl:text-3xl 2xl:text-5xl mt-5">
-            We are raising fund to make sure these
+            We are raising fund to make sure underpriviledged people have a great Ramadan through providing iftar to orphanages and underpriviledged people near BRACU campus.
           </p>
         </div>
 
@@ -84,7 +84,7 @@ function App() {
         </h2>
         <p className="text-lg xl:text-xl 2xl:text-2xl">
           We are working to provide a nice iftar for underpriviledged people in
-          our local community &amp; near BRACU campus and orphanages.
+          our community &amp; near BRACU campus and orphanages.
         </p>
       </div>
 
